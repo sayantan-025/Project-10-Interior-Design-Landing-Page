@@ -2,7 +2,7 @@
 
 ![Created By Sayantan Bera](https://img.shields.io/badge/Created%20By-Sayantan%20Bera-blue)
 
-## **Project-10** [Live Link](https://plant-landing-page-sayantan.netlify.app/)
+## **Project-10** [Live Link](https://interior-design-sayantan.netlify.app/)
 
 ### Website Image
 
@@ -18,4 +18,4 @@
 
 - Learned to design beautiful search bar
 
-## This project took around 5.5 hours to complete.
+## This project took around 5.5 hours to complete and 3.5 hours to responsive.
